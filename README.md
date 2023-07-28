@@ -1,6 +1,6 @@
 # PokeApp con Angular 
 
-Esta aplicacion funciona apartir del consumo de una APi la cual es:
+Esta aplicacion funciona apartir del consumo de una APi:
 https://pokeapi.co/docs/v2#pokemon-section
 
 Para poder ejecutar la aplicacion correctamente hay que aplicar los siguientes comandos una vez descargado el proyecto:
